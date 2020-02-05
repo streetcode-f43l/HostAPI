@@ -1,0 +1,18 @@
+:7zalib<
+version "1"
+arm "path"
+arm_v7 "path"
+x86 "path"
+>7zalib:
+
+:rarlib<
+version "1"
+arm "path"
+arm_v7 "path"
+x86 "path"
+>rarlib:
+
+:stream<
+version "1"
+no_arch "path"
+>stream:
