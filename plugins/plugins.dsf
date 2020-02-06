@@ -1,14 +1,14 @@
 :7zalib<
 version "1"
 armeabi "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/7zalib/v1/armeabi/7zalib.plug"
-armeabi_v7 "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/7zalib/v1/armeabi-v7/7zalib.plug"
+armeabi-v7 "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/7zalib/v1/armeabi-v7/7zalib.plug"
 x86 "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/7zalib/v1/x86/7zalib.plug"
 >7zalib:
 
 :rarlib<
 version "1"
 armeabi "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/7zalib/v1/armeabi/rarlib.plug"
-armeabi_v7 "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/7zalib/v1/armeabi-v7/rarlib.plug"
+armeabi-v7 "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/7zalib/v1/armeabi-v7/rarlib.plug"
 x86 "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/7zalib/v1/x86/rarlib.plug"
 >rarlib:
 
