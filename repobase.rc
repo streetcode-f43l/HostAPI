@@ -514,4 +514,5 @@
 (594, 'cs_mario_b2', 'ma', 'https://maps.cs-bg.info/get/1604/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/cs/cs-1604-cs_mario_b2.jpg', '@Type: @Map_cs1', 0, '1,1 MB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
 (595, 'cs_havana', 'ma', 'https://maps.cs-bg.info/get/1598/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/cs/cs-1598-cs_havana.jpg', '@Type: @Map_cs1', 0, '1,5 MB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
 (596, 'Knife - Bayonet Boom - HD', 's', 'http://download1651.mediafire.com/gvbi3dwpltig/s4uhuah10yzn80k/Bayonet_Boom_HD.zip', '[TBR]brazuca', 'http://www.mediafire.com/convkey/7f00/ag6yc27gvv64l5zzg.jpg', '@Visible: @Model_v \n@Content: knife ', 0, '349,6 KB', 'iurysousa1234567', '', '', ''),
+(597, 'M4A4 - Howl (Com Stickers) - HD', 's', 'http://download1083.mediafire.com/v3ek2rgddmkg/efpogr5jjsotdge/M4A4_Howl_%28Com+Stickers%29_HD.zip', '[TBR]brazuca', 'http://www.mediafire.com/convkey/1425/f04a39q947fpyv1zg.jpg', '@Visible: @Model_v \n@Content: m4a1 and sounds', 0, '2,1 MB', 'iurysousa1234567', '', '', ''),
 
