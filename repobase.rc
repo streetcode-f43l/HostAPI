@@ -521,6 +521,6 @@
 (601, 'cs_killer', 'ma', 'https://maps.cs-bg.info/get/1266/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/cs/cs-1266-cs_killer.jpg', '@Type: @Map_cs1 \n@Author: superjer', 0, '408,3 KB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
 (602, 'de_lake_csgo', 'ma', 'https://maps.cs-bg.info/get/3624/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/de/cs-3624-de_lake_csgo.jpg', '@Type: @Map_de \n@Author: Roger Lundeen', 0, '15,0 MB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
 (603, 'de_zovine', 'ma', 'https://maps.cs-bg.info/get/3503/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/de/cs-3503-de_zovine.jpg', '@Type: @Map_de \n@Author: Touro#', 0, '1,3 MB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
-
-
-
+(604, 'de_snipe_it5_fix', 'ma', 'https://maps.cs-bg.info/get/3176/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/de/cs-3176-de_snipe_it5_fix.jpg', '@Type: @Map_de', 0, '394,6 KB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
+(605, 'de_mon', 'ma', 'https://maps.cs-bg.info/get/3269/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/de/cs-3269-de_mon-2.jpg', '@Type: @Map_de \n@Author: MaMuS', 0, '5,6 MB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
+(606, 'sea_dust2_forest', 'ma', 'https://maps.cs-bg.info/get/3043/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/de/cs-3043-sea_dust2_forest-3.jpg', '@Type: @Map_de \n@Author: MILBURN', 0, '1,9 MB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
