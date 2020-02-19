@@ -526,5 +526,6 @@
 (606, 'sea_dust2_forest', 'ma', 'https://maps.cs-bg.info/get/3043/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/de/cs-3043-sea_dust2_forest-3.jpg', '@Type: @Map_de \n@Author: MILBURN', 0, '1,9 MB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
 (607, 'BG - Big Doors ', 'b', 'http://download938.mediafire.com/rqorcmlnveqg/4pq6d4uitroklpn/BG_big_doors.zip', '[TBR]brazuca', 'http://www.mediafire.com/convkey/ba9f/lxejq3urjcbgfqxzg.jpg', 'CRÉDITOS AO SITE GAMEMODD', 0, '1,9 MB', 'iurysousa1234567', '', '', ''),
 (608, 'Galil - Cerberus', 's', 'http://download2266.mediafire.com/xrlcfysuv9pg/dndq30kiuxit09c/Galil_Cerberus_HD.zip', '[TBR]brazuca', 'http://www.mediafire.com/convkey/08a9/lfndg8ncmgbvih2zg.jpg', '@Visible: @Model_v \n@Content: galil, sounds \n\nCRÉDITOS AO SITE GAMEMODD', 0, '472,1 KB', 'iurysousa1234567', '', '', ''),
+(609, 'Knife - Ursus Tiger Tooth - HD', 's', 'http://download1474.mediafire.com/gmf5p2pq9rsg/p09rjysdyw4f5h4/Ursus_Tiger_Tooth_HD.zip', '[TBR]brazuca', 'http://www.mediafire.com/convkey/03a3/6at6lkxx4i7lr5rzg.jpg', '@Visible: @Model_v \n@Content: knife, sound ', 0, '1,2 MB', 'iurysousa1234567', '', '', ''),
 
 
