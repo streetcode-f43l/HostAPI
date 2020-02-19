@@ -524,3 +524,6 @@
 (604, 'de_snipe_it5_fix', 'ma', 'https://maps.cs-bg.info/get/3176/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/de/cs-3176-de_snipe_it5_fix.jpg', '@Type: @Map_de', 0, '394,6 KB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
 (605, 'de_mon', 'ma', 'https://maps.cs-bg.info/get/3269/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/de/cs-3269-de_mon-2.jpg', '@Type: @Map_de \n@Author: MaMuS', 0, '5,6 MB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
 (606, 'sea_dust2_forest', 'ma', 'https://maps.cs-bg.info/get/3043/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/de/cs-3043-sea_dust2_forest-3.jpg', '@Type: @Map_de \n@Author: MILBURN', 0, '1,9 MB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
+(607, 'BG - Big Doors ', 'b', 'http://download938.mediafire.com/rqorcmlnveqg/4pq6d4uitroklpn/BG_big_doors.zip', '[TBR]brazuca', 'http://www.mediafire.com/convkey/ba9f/lxejq3urjcbgfqxzg.jpg', 'CRÉDITOS AO SITE GAMEMODD', 0, '1,9 MB', 'iurysousa1234567', '', '', ''),
+
+
