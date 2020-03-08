@@ -16,3 +16,8 @@ x86 "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/rarlib/v1/x86
 version "1"
 no_arch "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/stream/v1/stream.plug"
 >stream:
+
+:bgstudio<
+version "1"
+no_arch "https://github.com/streetcode-f43l/HostAPI/raw/master/plugins/bgstudio/v1/bgstudio.plug"
+>bgstudio:
