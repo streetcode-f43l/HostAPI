@@ -585,6 +585,7 @@
 (845, 'awp_snowmountains_waterfall_v2', 'ma', 'https://maps.cs-bg.info/get/2770/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/awp/cs-2770-awp_snowmountains_waterfall_v2.jpg', '@Type: @Map_awp', 0, '1,2 MB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
 (846, 'awp_aztec_x', 'ma', 'https://maps.cs-bg.info/get/2740/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/awp/cs-2740-awp_aztec_x.jpg', '@Type: @Map_awp\n@Author: guilty_bystander', 0, '408,1 KB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
 (847, 'awp_piramit', 'ma', 'https://maps.cs-bg.info/get/2444/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/awp/cs-2444-awp_piramit.jpg', '@Type: @Map_awp', 0, '216,6 KB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
+(848, 'awp_winter_z', 'ma', 'https://maps.cs-bg.info/get/2370/maps16/', 'Maps.cs-bg.info', 'https://static2.cs-bg.net/maps/images/screenshots/maps16/awp/cs-2370-awp_winter_z.jpg', '@Type: @Map_awp\n@Author: zebaNi *', 0, '934,3 KB', 'streetcode.dev', 'maps.cs-bg.info', '', ''),
 
 
 
